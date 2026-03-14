@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "541331614687",
+    "project_id": "notificationalert-3088d",
+    "storage_bucket": "notificationalert-3088d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541331614687:android:02cee5b297a77e88deb26a",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgK1VosnSGazyabt6DFQ_F52L_LMkhtz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541331614687:android:d5e9df63f9016791deb26a",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgK1VosnSGazyabt6DFQ_F52L_LMkhtz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541331614687:android:52f6bc777ccd8901deb26a",
+        "android_client_info": {
+          "package_name": "com.example.notification1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgK1VosnSGazyabt6DFQ_F52L_LMkhtz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
